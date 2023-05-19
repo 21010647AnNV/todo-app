@@ -1,8 +1,10 @@
-# contacts_app
+# Todo App
 
-A new Flutter project.
+- Flutter project
 
-## Getting Started
+## Builder
+
+- Nguyen Van An, Bui Viet Quang, Bui Dinh Loc
 
 This project is a starting point for a Flutter application.
 
